@@ -1,4 +1,4 @@
-/**
+ /**
  * sessionAuth
  *
  * @module      :: Policy
